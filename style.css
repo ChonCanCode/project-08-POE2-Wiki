@@ -58,3 +58,16 @@ h3{
     margin-top: 10px;
 }
 
+@media (max-width: 768px){
+    img{
+        width: 75%;
+    }
+
+    video{
+        width:100%;
+    }
+
+    body{
+        font-size: 0.5rem;
+    }
+}
