@@ -58,6 +58,14 @@ h3{
     margin-top: 10px;
 }
 
+img{
+    max-width: 1080px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
 @media (max-width: 768px){
     img{
         width: 75%;
